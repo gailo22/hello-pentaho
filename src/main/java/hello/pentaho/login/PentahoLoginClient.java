@@ -12,8 +12,6 @@ import org.apache.commons.httpclient.auth.AuthScope;
 import org.apache.commons.httpclient.methods.GetMethod;
 import org.apache.commons.httpclient.methods.PostMethod;
 
-
-
 public class PentahoLoginClient {
 	
 	public static void main(String[] args) throws Exception {
